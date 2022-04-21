@@ -12,7 +12,7 @@ Step 3: Create a file
 ```
 touch app.py
 ```
-Step 4: Code https://github.com/pranay999000/teaching-flask \
+Step 4: Code https://github.com/pranay999000/teaching-flask/blob/main/app.py \
 Step 5: Run the code
 ```
 python3 app.py
